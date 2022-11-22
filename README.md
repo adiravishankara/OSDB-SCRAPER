@@ -21,7 +21,7 @@ This scraper tool can download whichever type in whichever format required!
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Installation
+# Installation
 
 **NOTE**
 This is just a python file and does not have a UI associated. A small amount of coding is necessary, but you knew that.
