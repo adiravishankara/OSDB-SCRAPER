@@ -31,7 +31,7 @@ To use this tool:
 `git clone https://github.com/adiravishankara/OSDB-SCRAPER.git`
 
 2. Install the requirements using a terminal:
-`wget https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe'
+`wget https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe`
 `pip install -U pip setuptools wheel`
 `pip install requests beautifulsoup4`
 
